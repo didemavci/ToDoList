@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color:#CDFCF6;
+    font-family: sans-serif ;
+    
+}
+.container{
+    width:100% ;
+    text-align:center ;
+    margin-top: 100px;
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: #B1B2FF;
+}
+
+#inputtext{
+    width: 300px;
+    height: 46px;
+    border:1px solid #B1B2FF;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border: 3px solid #B1B2FF;
+    border-radius: 25px;
+    color: darkslategray;
+}
+
+#btnadd{
+    height:45px ;
+    width: 80px;
+    border: 1px solid #FAF7F0;
+    vertical-align: center;
+    font-size: 25px;
+    outline: none;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #98A8F8;
+    color: darkslategray;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#btnclear{
+    height:45px ;
+    width: 100px;
+    border: 1px solid #FAF7F0;
+    vertical-align: center;
+    font-size: 25px;
+    outline: none;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #98A8F8;
+    color: darkslategray;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;;
+    color:darkslategray ;
+    text-transform: capitalize;
+}
+.to-do{
+    margin-top: 25px;
+    
+}
